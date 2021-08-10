@@ -1,0 +1,7 @@
+p {
+  width: fit-content;
+  border-radius: 15%;
+  color: white;
+  background-color: red;
+  font-weight: 800;
+}
